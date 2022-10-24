@@ -1,0 +1,50 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: 0-HowToUseThisTextbook.md
+chapters:
+- file: 1-Intro.md
+  sections:
+  - file: 1.1-RelevantTech.md
+  - file: 1.2-CurrentProjects
+  - file: 1.3-EthicalConcerns.md
+- file: 2-Neuroscience
+  sections:
+  - file: 2.1-Brain
+  - file: 2.2-NervousSystem
+  - file: 2.3-ActionPotential
+  - file: 2.4-MotorSystems
+  - file: 2.5-SensorySystems
+- file: 3-Cognition
+  sections:
+  - file: 3.1-Philosophy
+  - file: 3.2-Perception
+  - file: 3.3-Attention
+  - file: 3.4-Consciousness
+  - file: 3.5-Learning/Memory
+- file: 4-FMRI
+  sections:
+  - file: 4.1-BrainActiviy(BOLD) 
+  - file: 4.2-DataProcessing
+  - file: 4.3-Examples
+- file: 5-EEG.md
+  sections:
+  - file: 5.1-BrainWaves.md
+  - file: 5.2-Preprocessing.md
+  - file: 5.3-FourierTransform
+  - file: 5.4-ML
+  - file: 5.5-Examples
+- file: 6-EMG/EOG
+  sections:
+  - file: 6.1-Oculometrics
+  - file: 6.2-Examples
+- file: 7-Neuroethics/Industry
+  sections: 
+  - file: 7.1-Industry
+  - file: 7.2-Neuroethics
+- file: Appendix
+  sections:
+  - file: Python/Packages
+  - file: SignalProcessing
+  - file: Neuroscience
