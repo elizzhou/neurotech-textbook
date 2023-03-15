@@ -14,6 +14,7 @@ chapters:
   - file: 2.1-Brain.md
   - file: 2.2-NervousSystem.md
   - file: 2.3-ActionPotential.md
+  - file: SpikeModellingLab.ipynb
   - file: 2.4-MotorSystems.md
   - file: 2.5-SensorySystems.md
 - file: 3-Cognition.md
